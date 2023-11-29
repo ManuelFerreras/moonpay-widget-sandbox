@@ -1,0 +1,17 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 6rem;
+  min-height: 100vh;
+}
+
+.widgetStartButton {
+  padding: 10px 14px;
+  background: #252525;
+  color: white;
+  border-radius: 12px;
+  border: none;
+  cursor: pointer;
+}
